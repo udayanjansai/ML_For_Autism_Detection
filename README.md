@@ -1,16 +1,16 @@
-# 🧠 ML for Autism Spectrum Disorder (ASD) Detection
+#  ML for Autism Spectrum Disorder (ASD) Detection
 
 A machine learning and deep learning project for early detection of Autism Spectrum Disorder (ASD) using ensemble classifiers and a TabTransformer deep learning model across multiple age groups.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project combines four ASD screening datasets (Child, Adult, Adolescent, and Toddler) into a unified pipeline that applies rigorous preprocessing, balanced resampling, and trains five ensemble ML models alongside a TabTransformer deep learning model. The goal is to build a robust, generalizable ASD classifier that works across age groups.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 ML_For_Autism_Detection/
@@ -82,7 +82,7 @@ Five ensemble classifiers are trained and evaluated:
 
 ---
 
-## 📈 Visualizations Generated
+##  Visualizations Generated
 
 | File | Description |
 |------|-------------|
@@ -99,7 +99,7 @@ Five ensemble classifiers are trained and evaluated:
 
 ---
 
-## 🧪 Evaluation Metrics
+##  Evaluation Metrics
 
 Each model is evaluated on:
 - **Accuracy**
@@ -125,7 +125,7 @@ Each model is evaluated on:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -147,7 +147,7 @@ Open `ML_for_ASD.ipynb` in **Google Colab** (recommended) or Jupyter Notebook.
 
 ---
 
-## 📋 Features Used
+##  Features Used
 
 | Feature       | Type        | Description                              |
 |---------------|-------------|------------------------------------------|
@@ -161,7 +161,7 @@ Open `ML_for_ASD.ipynb` in **Google Colab** (recommended) or Jupyter Notebook.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Uday Anjan Sai**
 B.Tech – Computer Science & Design (CSD-C)
@@ -170,13 +170,13 @@ Roll No: 23B81A67J4
 
 ---
 
-## 📄 License
+##  License
 
 This project is intended for academic and research purposes.
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - UCI Machine Learning Repository — ASD Screening Datasets
 - [`pytorch-tabular`](https://github.com/manujosephv/pytorch_tabular) by Manu Joseph
